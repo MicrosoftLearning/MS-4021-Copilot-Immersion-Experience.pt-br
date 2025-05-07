@@ -9,7 +9,7 @@ demo:
 
 **Cenário**:  
 
-Você é um Operations Manager na Contoso, responsável por gerenciar a aquisição de fornecedores e a execução do projeto. Seu objetivo é analisar as Solicitações de Propostas (RFPs) anteriores, extrair os principais critérios de seleção e desenvolver uma nova RFP para uma iniciativa futura.
+Você está no Marketing de uma empresa de bebidas e tem como objetivo analisar as tendências do mercado, criar uma análise de marketing e desenvolver uma nova campanha para as redes sociais.
 
 ## Configuração da demonstração
 
