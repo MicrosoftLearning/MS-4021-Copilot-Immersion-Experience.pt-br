@@ -65,7 +65,6 @@ Os arquivos específicos necessários para esta demonstração são:
 
 1. Depois de aberto, selecione **Habilitar edição** e, em seguida, ative "Salvamento automático". Selecione sua conta do OneDrive quando solicitado.
 
-
 ### Copilot no Word
 
 Agora pediremos ao Copilot que expanda essas estratégias e elabore propostas sobre como implementá-las.

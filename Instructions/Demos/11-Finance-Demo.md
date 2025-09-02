@@ -19,7 +19,7 @@ Os arquivos específicos necessários para esta demonstração são:
 
 - [EV_Charger_Sales_Analysis_v1.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx)
 
-### Copiloto no Excel  
+### Copilot no Excel  
 
 Use o Copilot no Excel para analisar dados de vendas, identificar as principais tendências e calcular métricas financeiras.
 
@@ -174,3 +174,5 @@ Use o Copilot no Word para resumir os insights financeiros em um e-mail para nos
     - Torne-o menos formal
 
 1. Após terminar, você pode selecionar **Manter**
+
+[Voltar ao índice](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

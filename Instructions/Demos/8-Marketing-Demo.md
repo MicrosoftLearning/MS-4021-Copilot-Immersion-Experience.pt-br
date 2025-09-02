@@ -95,7 +95,7 @@ Use o Copilot Chat para avaliar a eficácia das campanhas de mídia social propo
     Create a captivating social media video for Mystic Spice Chai Tea that highlights its unique flavor and vibrant appeal. The video should feature eye-catching visuals, with colors, and themes that resonate with young professionals and tea enthusiasts.
     ```
 
-### Copiloto no Excel
+### Copilot no Excel
 
 1. Certifique-se de ter feito o download de [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) e abra o documento no Excel (na Web ou no aplicativo da área de trabalho).
 
@@ -118,3 +118,5 @@ Use o Copilot Chat para avaliar a eficácia das campanhas de mídia social propo
     ```text
     How many social media campaign views did we have from September to December?
     ```
+
+[Voltar ao índice](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
