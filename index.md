@@ -37,3 +37,7 @@ Hiperlinks para cada uma das demonstrações estão listados abaixo.
 #### [Legal](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Legal-Prompts.html)
 
 #### [Finanças](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Finance-Prompts.html)
+
+#### [Agentes – usuários de negócios](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/EU-Agents.html)
+
+#### [Agentes – executivos](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-Agents.html)
