@@ -25,7 +25,7 @@ Use o Copilot no Excel para analisar dados de vendas, identificar as principais 
 
 1. Inicie o Excel e abra o arquivo  
 
-1. Abra **Finance_Sales_Analysis.xlsx** no Excel (no navegador ou no aplicativo da área de trabalho).  
+1. Abra **EV_Charger_Sales_Analysis_v1.xlsx** no Excel (no navegador ou no aplicativo da área de trabalho).  
 
 1. Navegue até a guia **“Vendas por Produto”**.  
 
