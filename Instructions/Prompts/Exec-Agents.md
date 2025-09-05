@@ -80,6 +80,8 @@ Use o **Agente Pesquisador** para ver como o Copilot e os agentes podem ajudar. 
 
     > **TIP:** procure oportunidades em que um agente possa facilitar a localização, a reutilização ou o compartilhamento de conhecimento.
 
+    > **Observação:** o pesquisador pode levar 5–10 minutos para concluir, dependendo da sua solicitação. Suas respostas são altamente detalhadas, portanto, durante a operação, tente executar o mesmo prompt no Copilot Chat. Comparar os dois resultados é uma ótima maneira de ver como cada ferramenta aborda a tarefa.
+
 ### Tarefa 4: Conceitualizar seu agente
 
 Agora, obtenha seus insights e crie um agente fictício simples no **Copilot Studio**. Mantenha o foco na recuperação. Seu agente deve ajudar a exibir, organizar ou resumir informações.

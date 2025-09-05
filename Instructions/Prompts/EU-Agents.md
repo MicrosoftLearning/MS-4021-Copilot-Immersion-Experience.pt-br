@@ -57,11 +57,13 @@ Use o **Agente Pesquisador** para explorar como o Copilot ou os agentes podem aj
 - Experimente um prompt de exemplo como este:  
 
    ```text
-   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
+   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
    ```  
 
-    > **TIP:** Mantenha o foco em casos de uso práticos e diários, como descobrir rapidamente um documento ou extrair atualizações de várias fontes.  
-
+    > **TIP:** Mantenha o foco em casos de uso práticos e diários, como descobrir rapidamente um documento ou extrair atualizações de várias fontes.
+  
+    > **Observação:** o pesquisador pode levar 5–10 minutos para concluir, dependendo da sua solicitação. Suas respostas são altamente detalhadas, portanto, durante a operação, tente executar o mesmo prompt no Copilot Chat. Comparar os dois resultados é uma ótima maneira de ver como cada ferramenta aborda a tarefa.
+    
 ### Tarefa 3: Compilar e testar seu agente  
 
 Agora, crie um agente de recuperação simples no **Copilot Studio** para resolver seu desafio.  
