@@ -89,7 +89,7 @@ Por fim, use o Copilot no Outlook para redigir um e-mail para a equipe de contra
 1. Na seção **“O que você quer que este e-mail diga?”** janela de prompt, digite o seguinte:
 
     ```text
-    Please draft an email to the hiring team to share that Nester Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
+    Please draft an email to the hiring team to share that Nestor Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
     ```
 
 [Voltar ao índice](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
