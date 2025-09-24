@@ -35,7 +35,7 @@ Use o Copilot no Word para redigir um relatório detalhado de análise de mercad
 
 1. Abra o Word (em seu navegador ou aplicativo da área de trabalho).
 
-1. Na caixa de prompt **descreva o que você gostaria de escrever**, digite o seguinte:
+1. Na caixa de prompt **O que você deseja que o Copilot esboce?** digite o seguinte:
 
     ```text
     Create a Market Analysis report for Mystic Spice Premium Chai Tea using the attached files. Include the product description, market trend analysis, and a promotion plan for Latin America.
@@ -53,7 +53,7 @@ Use o Copilot no Word para redigir um relatório detalhado de análise de mercad
     Draft a new section for social media campaigns to promote Mystic Spice Premium Chai Tea. Include a brief description of 2-3 campaign ideas, each with a unique focus. For each campaign, provide a tagline that reflects its theme and resonates with our target audience of young professionals and tea enthusiasts.
     ```
 
-1. Salve este novo documento como **LATAM_Market_Analysis.docx**.
+1. Na janela do Copilot, selecione Manter para alterar o documento de um rascunho do Copilot para um documento real do Word. Salve este novo documento como **LATAM_Market_Analysis.docx**.
 
 ### Copilot Chat
 
@@ -97,7 +97,7 @@ Use o Copilot Chat para avaliar a eficácia das campanhas de mídia social propo
 
 ### Copilot no Excel
 
-1. Certifique-se de ter feito o download de [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) e abra o documento no Excel (na Web ou no aplicativo da área de trabalho).
+1. Confira se você fez o download de [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) e abra o documento no Excel (na Web ou no aplicativo da área de trabalho).
 
 1. Selecione **Copilot** na faixa de opções para abrir o painel do Copilot.
 

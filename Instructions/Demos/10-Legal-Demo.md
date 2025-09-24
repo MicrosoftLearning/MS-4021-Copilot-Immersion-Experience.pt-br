@@ -19,9 +19,9 @@ Não há documentos de amostra necessários para esta demonstração.
 
 ### Copilot Chat
 
-Vamos começar pesquisando o IA Act e seu impacto potencial na ferramenta de contratação de IA da Contoso.
+Vamos começar pesquisando a Lei de Inteligência Artificial da UE e seu potencial impacto na ferramenta de contratação de IA da Contoso.
 
-1. Abra um navegador e navegue até [M365copilot.com](https://m365copilot.com/).
+1. Abra um navegador e navegue até [M365Copilot.com](https://m365Copilot.com/).
 
 1. Certifique-se de que o **Modo Web** esteja selecionado.
 
@@ -49,7 +49,7 @@ Vamos começar pesquisando o IA Act e seu impacto potencial na ferramenta de con
     Are there any exemptions in the AI Act that could apply to Contoso’s system?
     ```
 
-1. Agora peça ao Copilot para resumir todas as informações até o momento:
+1. Agora pergunte ao Copilot para resumir todas as informações até o momento:
 
     ```text
     Summarize all the information we've discussed into a structured list, ensuring no key details are missed. Then, export the summary to a Word document
@@ -85,7 +85,7 @@ Agora, vamos redigir um resumo executivo descrevendo os riscos jurídicos e as r
 
 1. Outros refinamentos opcionais:
 
-    - peça ao Copilot para reformular as seções para um tom mais profissional.
+    - Pergunte ao Copilot para reformular as seções adotando um tom mais profissional.
     - Solicite uma versão mais curta e concisa se o resumo for muito longo.
     - Expanda com seções adicionais.
 

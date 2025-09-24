@@ -35,7 +35,7 @@ Começaremos analisando a transcrição da chamada de lucros mais recente e resu
 
     ![Ícone do Copilot no Word.](../Demos/Media/Copilot-in-word-ribbon.png)
 
-1. O painel do Copilot deve abrir. Digite o seguinte prompt onde está escrito **Pergunte-me algo sobre este documento**:
+1. O painel do Copilot deve abrir. Insira o seguinte prompt em que ele diz **+ O que você deseja que Copilot elabore?**:
 
     ```text
     Summarize the key points from the Microsoft FY24 Second Quarter Earnings Conference Call.
@@ -67,7 +67,6 @@ Começaremos analisando a transcrição da chamada de lucros mais recente e resu
 1. Quando o Copilot concluir a análise, selecione o ícone **Copiar** para salvar os resultados para a próxima etapa.
 
     ![Copiar resultados](../Demos/Media/Copilot-in-word-copy-results.png)
-
 
 ### Copilot Chat
 
