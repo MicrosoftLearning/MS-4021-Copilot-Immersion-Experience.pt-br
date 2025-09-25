@@ -50,7 +50,7 @@ Use o **Agente Pesquisador** para explorar como o Copilot ou os agentes podem aj
 
 **Etapas:**  
 
-- No menu do Copilot Chat, expanda **Agentes** e selecione **Pesquisador**.  
+- No menu do Copilot Chat, expanda **Agentes** e selecione **Pesquisador**  
 
    ![Captura de tela mostrando o Pesquisador selecionado no menu do M365 Copilot.](../Prompts/Media/researcher.png)  
 
@@ -62,11 +62,11 @@ Use o **Agente Pesquisador** para explorar como o Copilot ou os agentes podem aj
 
     > **TIP:** Mantenha o foco em casos de uso práticos e diários, como descobrir rapidamente um documento ou extrair atualizações de várias fontes.
   
-    > **Observação:** o pesquisador pode levar 5–10 minutos para concluir, dependendo da sua solicitação. Suas respostas são altamente detalhadas, portanto, durante a operação, tente executar o mesmo prompt no Copilot Chat. Comparar os dois resultados é uma ótima maneira de ver como cada ferramenta aborda a tarefa.
-    
+    > **Observação:** o pesquisador pode levar 5–10 minutos (ou mais) para concluir, dependendo da sua solicitação. Suas respostas são altamente detalhadas, portanto, durante a operação, tente executar o mesmo prompt no Copilot Chat. Comparar os dois resultados é uma ótima maneira de ver como cada ferramenta aborda a tarefa.
+
 ### Tarefa 3: Compilar e testar seu agente  
 
-Agora, crie um agente de recuperação simples no **Copilot Studio** para resolver seu desafio.  
+Agora, crie um agente de recuperação simples no **Copilot Studio lite** para resolver seu desafio.  
 
 **Etapas:**  
 
