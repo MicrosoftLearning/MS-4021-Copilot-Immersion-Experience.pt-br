@@ -99,7 +99,7 @@ Use o Copilot Chat para avaliar a eficácia das campanhas de mídia social propo
 
 1. Confira se você fez o download de [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) e abra o documento no Excel (na Web ou no aplicativo da área de trabalho).
 
-1. Selecione **Copilot** na faixa de opções para abrir o painel do Copilot.
+1. Selecione **Copilot** na faixa de opções do Excel e, em seguida, selecione **Habilidades do aplicativo** para abrir o painel do Copilot.
 
 1. Digite o seguinte prompt no Excel:
 

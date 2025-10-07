@@ -29,6 +29,8 @@ Use o Copilot no Excel para analisar dados de vendas, identificar as principais 
 
 1. Navegue até a guia **“Vendas por Produto”**.  
 
+1. Selecione **Copilot** na faixa de opções do Excel e, em seguida, selecione **Habilidades do aplicativo** para abrir o painel do Copilot.
+
 1. Use o Copilot para classificar a tabela inserindo o seguinte prompt:  
 
     ```text
