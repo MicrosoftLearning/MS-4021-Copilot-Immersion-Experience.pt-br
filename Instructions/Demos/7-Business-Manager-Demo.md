@@ -23,11 +23,13 @@ Os arquivos específicos necessários para esta demonstração são:
 
 ## Etapas de demonstração
 
-### Copiloto no Excel
+### Copilot no Excel
 
 1. Inicie o Excel (em seu navegador ou aplicativo da área de trabalho) e abra o arquivo **EV_Charger_Sales_Analysis_v1.xlsx**.
 
 1. **Navegue até a guia "Vendas por produto"**  no arquivo Excel.
+
+1. Selecione **Copilot** na faixa de opções do Excel e, em seguida, selecione **Habilidades do aplicativo** para abrir o painel do Copilot.
 
 1. Use o Copilot para calcular a receita mensal:  
 
