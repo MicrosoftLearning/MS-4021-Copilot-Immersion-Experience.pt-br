@@ -7,21 +7,21 @@ demo:
 
 # Demonstração de pesquisador e analista
 
-Esta demonstração destaca como usar o **Pesquisador** e o **Analista**, dois agentes especialistas integrados ao aplicativo Copilot.  
+Esta demonstração destaca como usar o**Pesquisador** e o**Analista**, dois agentes especialistas integrados ao aplicativo Copilot.  
 
-- O **Pesquisador** ajuda você a lidar com tarefas de pesquisa de várias etapas, combinando dados da Web com os arquivos e o conhecimento da sua empresa.  
-- O **Analista** pensa como um cientista de dados hábil, capaz de executar a análise de dados avançada e a execução do Python, mesmo que você não saiba codificar.  
+- O**Pesquisador** ajuda você a lidar com tarefas de pesquisa de várias etapas, combinando dados da Web com os arquivos e o conhecimento da sua empresa.  
+- O**Analista** pensa como um cientista de dados hábil, capaz de executar a análise de dados avançada e a execução do Python, mesmo que você não saiba codificar.  
 
 ## Configuração da demonstração
 
-Para concluir essas demonstrações, você precisará baixar a [Demonstração de Pesquisador e Analista –Pacote de Conteúdo](https://microsoft.sharepoint.com/:u:/r/teams/MTTCentral/Immersion%20Experience%20Source%20Control/MS-4021%20Copilot%20Immersion%20Experience/Demos/Agent%20Demo%20Sample%20Docs/Researcher%20and%20Analyst%20Demo%20-%20Content%20Pack.zip?csf=1&web=1&e=384sFW), que contém todos os arquivos e recursos necessários.  
+Para concluir essas demonstrações, você precisará baixar a[Demonstração de Pesquisador e Analista –Pacote de Conteúdo](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Researcher_and_Analyst_Demo_Content_Pack.zip), que contém todos os arquivos e recursos necessários.  
 
-> **TIP:** antes de entregar a demonstração, você pode criar um site do SharePoint em seu ambiente de demonstração para armazenar todos os arquivos para facilitar o acesso. Como alternativa, você pode armazenar os arquivos localmente e fazer referência direta a eles em seus prompts usando **/**.  
+> **TIP:** antes de entregar a demonstração, você pode criar um site do SharePoint em seu ambiente de demonstração para armazenar todos os arquivos para facilitar o acesso. Como alternativa, você pode armazenar os arquivos localmente e fazer referência direta a eles em seus prompts usando**/**.  
 
 Para acessar estes agentes:  
 
-- Abra o **aplicativo Copilot** em [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Selecione **Pesquisador** ou **Analista** no painel de navegação.  
+- Abra o**aplicativo Copilot** em[m365.cloud.microsoft](https://m365.cloud.microsoft).  
+- Selecione**Pesquisador** ou**Analista** no painel de navegação.  
 
 > **Observação:** você precisará apontar o Pesquisador e o Analista para arquivos internos (SharePoint/OneDrive) para obter insights embasados.
 
@@ -29,8 +29,8 @@ Para acessar estes agentes:
 
 ## Pontos de discussão
 
-- O **Pesquisador** atua como um consultor bem remunerado: ele pode criar entregas estruturadas e com boas citações combinando arquivos internos, inteligência de concorrentes e fontes da Web.  
-- O **Analista** é como ter um cientista de dados disponível: ele cria modelos, executa código Python e visualiza tendências instantaneamente.  
+- O**Pesquisador** atua como um consultor bem remunerado: ele pode criar entregas estruturadas e com boas citações combinando arquivos internos, inteligência de concorrentes e fontes da Web.  
+- O**Analista** é como ter um cientista de dados disponível: ele cria modelos, executa código Python e visualiza tendências instantaneamente.  
 - Ambos os agentes explicam o raciocínio de modo transparente para você validar os resultados.  
 - Juntos, aceleram o trabalho estratégico, como planos de marketing, segmentação de clientes, projeções financeiras, para que você possa avançar mais rápido e com confiança.  
 
@@ -42,7 +42,7 @@ Para acessar estes agentes:
 
 > **IMPORTANTE:** as etapas 1 a 4 devem ser concluídas no início do treinamento (conforme indicado pelo slide 5) para que o Pesquisador tenha tempo suficiente para concluir o primeiro prompt.
 
-1. Abra **Pesquisador** no painel de navegação.  
+1. Abra**Pesquisador** no painel de navegação.  
 
     ![Captura de tela mostrando o Pesquisador selecionado no menu do M365 Copilot.](../Prompts/Media/researcher.png)  
 
@@ -55,12 +55,12 @@ Para acessar estes agentes:
     Include insights from competitors and our past GTM campaigns.
     ```
 
-1. Anexe arquivos de referência usando `/` (apontar para o SharePoint/OneDrive):  
+1. Anexe arquivos de referência usando`/` (apontar para o SharePoint/OneDrive):  
 
    - **/SprintCycle Charger Product Launch.docx**  
-   - *(Opcional)* **/Contoso - PedalPerks GTM Plan.docx**  
+   - *(Opcional)***/Contoso - PedalPerks GTM Plan.docx**  
 
-1. Selecione **Enviar**.  
+1. Selecione**Enviar**.  
 
 O pesquisador vai:  
 
@@ -72,9 +72,9 @@ O pesquisador vai:
 
 ### Analista: segmentação de clientes e modelagem financeira
 
-**Observação:** esta demonstração não é realizada para a versão executiva do conteúdo, em vez disso, vá para a demonstração do **Copilot Studio**.
+**Observação:** esta demonstração não é realizada para a versão executiva do conteúdo, em vez disso, vá para a demonstração do**Copilot Studio**.
 
-1. Abra o **Analista** no painel de navegação.
+1. Abra o**Analista** no painel de navegação.
 
     ![Captura de tela mostrando o Analista selecionado no menu do M365 Copilot.](../Prompts/Media/analyst.png)  
 
@@ -85,13 +85,13 @@ O pesquisador vai:
     include a graph to show how this will maximize our market opportunity.
     ```
 
-1. Anexe o arquivo usando **+**:  
+1. Anexe o arquivo usando**+**:  
 
    - **BoulderEV ebike Internal Market Forecast.xlsx**  
 
     ![Captura de tela mostrando a anexação de arquivos no Analista.](../Prompts/Media/Analyst-Attach-Files.png)  
 
-1. Clique em **Enviar**.  
+1. Clique em**Enviar**.  
 
 O analista vai:  
 
@@ -101,7 +101,7 @@ O analista vai:
 
 ### Cenários adicionais de analistas
 
-Você pode executar estes prompts adicionais para variedade. Todos seguem o mesmo padrão: **Prompt → Anexar arquivo → Enviar → Examinar os resultados.**
+Você pode executar estes prompts adicionais para variedade. Todos seguem o mesmo padrão:**Prompt → Anexar arquivo → Enviar → Examinar os resultados.**
 
 - **Projeção Financeira**  
 
@@ -109,7 +109,7 @@ Você pode executar estes prompts adicionais para variedade. Todos seguem o mesm
     Build a 5-year financial projection from this data along with a graph to view revenue growth over time.
     ```  
 
-    Arquivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Arquivo:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **Desempenho de Vendas**  
 
@@ -118,7 +118,7 @@ Você pode executar estes prompts adicionais para variedade. Todos seguem o mesm
     along with a visualization of the best-selling products.
     ```  
 
-    Arquivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Arquivo:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **Desempenho da Campanha**  
 
@@ -127,13 +127,13 @@ Você pode executar estes prompts adicionais para variedade. Todos seguem o mesm
     and help me decide where to re-target our next campaign.
     ```  
 
-    Arquivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Arquivo:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 ## Conclusão principal
 
 - **Pesquisador**: acelera a estratégia e o planejamento com pesquisa de alta qualidade.  
 - **Analista**: fornece insights orientados por dados com análises e visualizações avançadas.  
 
-Juntos, o Pesquisador e o Analista encurtam o caminho da **pergunta ao insight**, transformando semanas de esforço em minutos.  
+Juntos, o Pesquisador e o Analista encurtam o caminho da**pergunta ao insight**, transformando semanas de esforço em minutos.  
 
 [Voltar ao índice](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
